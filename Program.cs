@@ -6,7 +6,7 @@ namespace LMS
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.sss
+            // Add services to the container.Zengo
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
