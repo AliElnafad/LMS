@@ -6,7 +6,7 @@ namespace LMS
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.ssss
+            // Add services to the container.sssssss
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
